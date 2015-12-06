@@ -1,4 +1,4 @@
-# advertiseHere
+# Advertise Here
 
 **Generated from HotTowel Angular**
 
